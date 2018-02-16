@@ -1,3 +1,3 @@
 # machine-learning-solutions-coursera
-Machine Learning Programming Assignments solutions of Coursera.
+These are the solutions of Machine Learning(MOOC Coursera)Programming Assignments.
 The assignments are completed in octave
